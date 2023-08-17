@@ -29,7 +29,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR para melho
 
 ##Estrutura
 
-`app.py`: Contém o código do servidor Flask que cria a API e renderiza a página web.
+`app.py`: Contém o código do servidor Flask que cria a API e renderiza a página web.\n
 
 `netflix_db.sqlite`: Banco de dados SQLite contendo os dados dos filmes da Netflix.
 
