@@ -23,3 +23,12 @@ Este projeto consiste em uma aplicação web que utiliza o framework Flask para 
 
    ```bash
    python app.py
+Acesse http://127.0.0.1:5000/ em seu navegador para ver a página de filmes.
+##Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR para melhorias, correções de bugs ou novas funcionalidades.
+
+##Estrutura
+`app.py`: Contém o código do servidor Flask que cria a API e renderiza a página web.
+`netflix_db.sqlite`: Banco de dados SQLite contendo os dados dos filmes da Netflix.
+`templates/index.html`: Página web interativa que consome a API e exibe os dados.
+`static/styles.css`: Arquivo CSS para estilizar a página.
